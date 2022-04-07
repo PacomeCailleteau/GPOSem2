@@ -1,5 +1,5 @@
 <img src="https://www.univ-nantes.fr/medias/photo/logotype-nantes-u-noir-72dpi_1638965800927-png?ID_FICHE=1482184" alt="Nantes Université" width="200"/>
-<img src=../pictures/https://univ-nantes.io/mottu-jm/butinfo-gpo2-projet-2022/-/blob/main/pictures/LOGO_PRINCIPAL_IUT_NANTES_CMJN.png alt="IUT Nantes" width="200"/>
+<img src=../pictures/LOGO_PRINCIPAL_IUT_NANTES_CMJN.png alt="IUT Nantes" width="200"/>
 
 # Mini-projet de GPO2 d'année BUT1-Info 2022 : Platoon
 
