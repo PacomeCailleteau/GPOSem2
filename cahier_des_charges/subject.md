@@ -11,7 +11,7 @@ Imaginons que votre trinôme est la première équipe de l'entreprise qui va fai
 
 ## Cas d'étude
 
-**Description du projet : ** 
+**Description du projet :** 
 Avant d’envisager d’avoir des véhicules complétement autonomes, les industriels et chercheurs ont étudié les platoons de véhicules. 
 Il s’agit de véhicules qui se suivent et qui communiquent entre eux pour s’informer mutuellement de leur position et vitesse. 
 Si la voiture autonome semble obnubiler les travaux désormais, il existe encore des projets réalistes pour créer des platoons de semi-remorques formant des « trains » sur l’autoroute.
