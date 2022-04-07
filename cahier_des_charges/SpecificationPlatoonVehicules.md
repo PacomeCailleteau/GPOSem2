@@ -3,7 +3,7 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 
 <img src=../pictures/LOGO_PRINCIPAL_IUT_NANTES_CMJN.png alt="IUT Nantes" width="200"/>
 
-# Cahier des charges fonctionnel - Réfrigérateur connecté
+# Cahier des charges fonctionnel - Platoon de véhicules
 
 ## Entête
 - Groupe de TD : 
