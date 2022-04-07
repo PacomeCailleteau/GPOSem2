@@ -1,6 +1,7 @@
 # butinfo-gpo2-projet-2022
 
-
+Ci-dessous vous trouverez des informations standards sur le démarrage d'un tel projet gitlab.
+Concernant le module GPO2, les instructions sont dans le dossier [./cahier_des_charges](./cahier_des_charges)
 
 ## Getting started
 
