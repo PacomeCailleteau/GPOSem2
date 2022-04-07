@@ -4,7 +4,8 @@
 # Mini-projet de GPO2 d'année BUT1-Info 2022 : Platoon de véhicules
 
 Le sujet d'étude est un **Platoon de véhicules**.
-On imagine une entreprise ElectroIUT qui produit déjà des véhicules qui peuvent rouler en train en se suivant les uns les autres.
+On imagine une entreprise ElectroIUT qui souhaitent produire des véhicules qui peuvent rouler en train en se suivant les uns les autres.
+Elle réalise alors un premier projet pour créer un **prototype de platoon de véhicule**.
 
 Nous allons traiter la première partie du projet en mettant en oeuvre l'ensemble du contenu du module de GPO2 et en produisant un cahier des charges.
 Imaginons que votre trinôme est la première équipe de l'entreprise qui va faire toute l'étude et qui confiera ensuite le cahier des charges à une équipe chargée de faire un prototype (il s'agit d'un projet classique pour des étudiants de 2ème année l'an prochain).
@@ -33,8 +34,8 @@ Nous avons aussi publié des travaux de recherche sur la vérification de leur c
 
 ## Déroulement du travail.
 
-L'étude de ce cas d'étude avec l'ensemble des techniques vues en GPO2 en produisant un cahier des charges est un travail réalisable en 20h.
-La date de rendu est le **vendredi 2 avril, à 19h**.
+L'étude de ce cas d'étude avec l'ensemble des techniques vues en GPO2 en produisant un cahier des charges est un travail réalisable en **24h** (à répartir entre 3 étudiants et dont la moitié sera faite pendant 3 créneaux de TD de GPO2 avec le professeur).
+La date de rendu est le **jeudi 2 juin, à 19h**.
 
 Comme vous le voyez, le travail se passe ici, sur gitlab, nous allons voir en TD comment se servir de cet outil.
 En bref, votre travail sera à rendre dans gitlab, le professeur récupérera votre travail à cette date 
