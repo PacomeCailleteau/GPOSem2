@@ -24,8 +24,9 @@ La télécommande du platoon sera faite par ordinateur (ce qui simule le conduct
 
 On considère uniquement le projet sur maquette et pas le système réel.
 
-Voici un exemple concret où le premier véhicule est conduit par un professionnel :
+Voici plusieurs exemples concrets où le premier véhicule est conduit par un professionnel pendant que les autres véhicules suivent sans action des passagers :
 [https://www.youtube.com/watch?v=tQnVGOoVvVk](https://www.youtube.com/watch?v=tQnVGOoVvVk)
+[https://www.youtube.com/watch?v=lx9EFJ6qgZc](https://www.youtube.com/watch?v=lx9EFJ6qgZc)
 
 Plusieurs projets d’étudiants au département ont travaillé sur un platoon de véhicule Lego. 
 Nous avons aussi publié des travaux de recherche sur la vérification de leur comportement :
