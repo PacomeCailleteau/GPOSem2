@@ -14,7 +14,7 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 |Nom | Prénom | mail
 | ------ | ------ | ------ |
 | PAYET | Lucas | lucas.payet@etu.univ-nantes.fr |
-| *cell* | *cell* | *cell* |
+| DELHOMMEAU | Lilian | lilian.delhommeau@etu.univ-nantes.fr |
 | *cell* | *cell* | *cell* |
 | *cell* | *cell* | *cell* |
 
