@@ -15,7 +15,7 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 | ------ | ------ | ------ |
 | PAYET | Lucas | lucas.payet@etu.univ-nantes.fr |
 | DELHOMMEAU | Lilian | lilian.delhommeau@etu.univ-nantes.fr |
-| *cell* | *cell* | *cell* |
+| CAILLETEAU | Pacôme | pacome.cailleteau@etu.univ-nantes.fr |
 | LEBOEUF | Arnaud | arnaud.leboeuf@etu.univ-nantes.fr |
 
 
