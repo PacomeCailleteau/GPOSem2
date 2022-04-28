@@ -6,14 +6,15 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 # Cahier des charges fonctionnel - Platoon de véhicules
 
 ## Entête
-- Groupe de TD : 
-- Date de démarrage :
+- Groupe de TD : Groupe 4
+- Date de démarrage : 28/04/2022
 - Version : *Il s'agit d'un numéro de version logique en visant d'arriver à la version 1.0 le jour du rendu (git gère une autre numérotation pour le versionnage*
-- Destinataire : *votre chargé de TD*
+- Destinataire : Florent CORDEAU
 
 |Nom | Prénom | mail
 | ------ | ------ | ------ |
-| *Etudiant 1* | *cell* | *cell* |
+| PAYET | Lucas | lucas.payet@etu.univ-nantes.fr |
+| *cell* | *cell* | *cell* |
 | *cell* | *cell* | *cell* |
 | *cell* | *cell* | *cell* |
 
