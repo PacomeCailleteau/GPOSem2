@@ -23,6 +23,7 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 ### 1.1 Projet
 #### 1.1.1 Finalités
 #### 1.1.2 Espérance de retour sur investissement
+Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
 ### 1.2 Contexte
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
 #### 1.2.2 Études déjà effectuées
