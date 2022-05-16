@@ -21,7 +21,7 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 
 ## 1. Présentation générale du problème
 ### 1.1 Projet
-Projet de véhicules autonomes connectés entre eux
+Projet de véhicules autonomes connectés entre eux.
 #### 1.1.1 Finalités
 #### 1.1.2 Espérance de retour sur investissement
 ### 1.2 Contexte
