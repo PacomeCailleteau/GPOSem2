@@ -33,6 +33,12 @@ Nous espérons que le projet apportera une meilleure image pour l'entreprise et 
 ### 1.2 Contexte
 
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
+Le projet n'est pas prioritaire mais est phase de maquette, et une bonne partie de nos employés travaille activement sur la réalisation de cette maquette.
+Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhicules et de permettre une nouvelles fonctionnalités non négligeables qui augmenterait de 
+manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
+Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
+les risques et les bénéfices sont déjà bien connus. 
+
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
