@@ -23,7 +23,11 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 Nous souhaitons développer un modèle de voitures autonomes capable de se suivre et de communiquer entre elles.
 Pour ce faire, nous commençons par développer une maquette des prototypes.
 ### 1.1 Projet
+<<<<<<< HEAD
 Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simuler par la télécommande. Il pourront éviter les obstacles et optmiser leur vitesses et déplacements.
+=======
+Projet de véhicules autonomes connectés entre eux
+>>>>>>> refs/remotes/origin/main
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
 #### 1.1.2 Espérance de retour sur investissement
