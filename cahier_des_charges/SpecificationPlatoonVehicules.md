@@ -20,10 +20,15 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 
 
 ## 1. Présentation générale du problème
+Nous souhaitons développer un modèle de voitures autonomes capable de se suivre et de communiquer entre elles.
+Pour ce faire, nous commençons par développer une maquette des prototypes.
 ### 1.1 Projet
+Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simuler par la télécommande. Il pourront éviter les obstacles et optmiser leur vitesses et déplacements.
 #### 1.1.1 Finalités
+A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
 #### 1.1.2 Espérance de retour sur investissement
 ### 1.2 Contexte
+
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
 #### 1.2.2 Études déjà effectuées
 #### 1.2.3 Études menées sur des sujets voisins
@@ -51,7 +56,11 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
+Fonction principale 1: Se suivre.
+Fonction principale 2: Gérer leur vitesse.
+Fonction principale 2: Gérer leur déplacement.
 ##### 2.1.1.1 Description et détail
+Fonction 1: Les véhicules doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
