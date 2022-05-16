@@ -31,12 +31,19 @@ Projet de véhicules autonomes connectés entre eux
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
 #### 1.1.2 Espérance de retour sur investissement
+Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
 ### 1.2 Contexte
 
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
 #### 1.2.2 Études déjà effectuées
+Des études ont déjà été effectuées sur ce sujet.
+Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
+Sur le plan des voitures autonomes, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
 #### 1.2.3 Études menées sur des sujets voisins
+Des études ont en effets été menées sur des sujets voisins.
+Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
 #### 1.2.4 Suites prévues
+
 #### 1.2.5 Nature des prestations demandées
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
