@@ -65,9 +65,9 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
-Fonction principale 1: Se suivre.
-Fonction principale 2: Gérer leur vitesse.
-Fonction principale 2: Gérer leur déplacement.
+-Fonction principale 1: Se suivre.
+-Fonction principale 2: Gérer leur vitesse.
+-Fonction principale 2: Gérer leur déplacement.
 ##### 2.1.1.1 Description et détail
 Fonction 1: Les véhicules doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
 
