@@ -68,12 +68,15 @@ Contraine environnementale, fréquence des appareils électroniques,
 *(qui sont la raison d’être du produit)*
 -Fonction principale 1: Se suivre.
 -Fonction principale 2: Gérer leur vitesse.
--Fonction principale 2: Gérer leur déplacement.
+-Fonction principale 3: Gérer leur déplacement.
 ##### 2.1.1.1 Description et détail
-Fonction 1: Les véhicules doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
+-Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
+-Fonction 2: Les robots doivent communiquer les informations concernant leur vitesse.
+-Fonction 3: Les robots doivent contrôler leur déplacement pour rester rattacher au convoi.
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
+
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.2 Fonctions de service complémentaires 
