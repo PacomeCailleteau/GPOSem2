@@ -20,12 +20,18 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 
 
 ## 1. Présentation générale du problème
+Nous souhaitons développer un modèle de voitures autonomes capable de se suivre et de communiquer entre elles.
+Pour ce faire, nous commençons par développer une maquette des prototypes.
 ### 1.1 Projet
-Projet de véhicules autonomes connectés entre eux.
+Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simuler par la télécommande. Il pourront éviter les obstacles et optmiser leur vitesses et déplacements.
+Projet de véhicules autonomes connectés entre eux
+
 #### 1.1.1 Finalités
+A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
 #### 1.1.2 Espérance de retour sur investissement
 Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
 ### 1.2 Contexte
+
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
@@ -35,14 +41,15 @@ Sur le plan des voitures autonomes, Tesla a aussi inové et fait des recherches 
 Des études ont en effets été menées sur des sujets voisins.
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
 #### 1.2.4 Suites prévues
-
 #### 1.2.5 Nature des prestations demandées
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
 ### 1.3 Énoncé du besoin 
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
 ### 1.4 Environnement du produit recherché
+Adultes de tout âges plutôt aisées
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
+Contraine environnementale, fréquence des appareils électroniques,
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
 
 ## 2. Expression fonctionnelle du besoin
@@ -59,7 +66,11 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
+-Fonction principale 1: Se suivre.
+-Fonction principale 2: Gérer leur vitesse.
+-Fonction principale 2: Gérer leur déplacement.
 ##### 2.1.1.1 Description et détail
+Fonction 1: Les véhicules doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
