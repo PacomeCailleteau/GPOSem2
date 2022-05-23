@@ -31,7 +31,7 @@ A terme nous espérons que la maquette puissent arriver au stade de modèle conc
 #### 1.1.2 Espérance de retour sur investissement
 Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
 ### 1.2 Contexte
-
+Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
