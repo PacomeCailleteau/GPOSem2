@@ -55,7 +55,7 @@ Adultes de tout âges plutôt aisées
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
 Contraine environnementale, fréquence des appareils électroniques,
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
--Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture\n
+-Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture
 -Prise en compte des usagers non liés avec la voiture et d'éventuels accidents
 -Reprise du contrôle du véhicule facile
 
