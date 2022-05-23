@@ -42,16 +42,22 @@ Sur le plan des voitures autonomes, Tesla a aussi inové et fait des recherches 
 Des études ont en effets été menées sur des sujets voisins.
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
 #### 1.2.4 Suites prévues
+Nous prévoyons de créer un système de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
 #### 1.2.5 Nature des prestations demandées
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
+Secret sur les technologies utilisés.
 ### 1.3 Énoncé du besoin 
+Suivre automatiquement des véhicules permettant de se reposer ou de passer du temps avec les passagers
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
 ### 1.4 Environnement du produit recherché
 Adultes de tout âges plutôt aisées
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
 Contraine environnementale, fréquence des appareils électroniques,
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
+-Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture
+-Prise en compte des usagers non liés avec la voiture et d'éventuels accidents
+-Reprise du contrôle du véhicule facile
 
 ## 2. Expression fonctionnelle du besoin
 
