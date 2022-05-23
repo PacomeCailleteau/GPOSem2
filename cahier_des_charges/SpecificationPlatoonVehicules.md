@@ -33,6 +33,7 @@ Nous espérons que le projet apportera une meilleure image pour l'entreprise et 
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
+Ce projet sort de l'ordinaire des projets de notre entreprise, il est très prometteur mais a également plus de risques d'échec que nos projets habituels
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
