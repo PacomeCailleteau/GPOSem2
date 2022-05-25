@@ -37,7 +37,7 @@ Le projet n'est pas prioritaire mais est phase de maquette, et une bonne partie 
 Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhicules et de permettre une nouvelles fonctionnalités non négligeables qui augmenterait de 
 manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
 Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
-les risques et les bénéfices sont déjà bien connus. 
+les risques et les bénéfices sont déjà bien connus.
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
@@ -87,11 +87,14 @@ Contraine environnementale, fréquence des appareils électroniques,
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
-
+-Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille.
+-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information; Critère 2: Les informations doivent circuler rapidement.
+-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction et/ou de vitesse rapidement.
 
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.2 Fonctions de service complémentaires 
+
 *(qui améliorent, facilitent ou complètent le service rendu)*
 ##### 2.1.2.1 Description et détail
 
