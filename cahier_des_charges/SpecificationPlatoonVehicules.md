@@ -28,37 +28,46 @@ Projet de véhicules autonomes connectés entre eux
 
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
+(bon)
 #### 1.1.2 Espérance de retour sur investissement
-Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
+Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client.
+Nous espérons également que le projet soit rentable pour l'entreprise.
+(bon)
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
-Ce projet sort de l'ordinaire des projets de notre entreprise, il est très prometteur mais a également plus de risques d'échec que nos projets habituels
+Ce projet sort de l'ordinaire par rapport aux autres projets de l'entreprise. Ce projet est très prometteur mais il a également plus de risques d'échec que nos projets habituels.
+(bon)
 #### 1.2.2 Études déjà effectuées
-Des études ont déjà été effectuées sur ce sujet.
-Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
-Sur le plan des voitures autonomes, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
+Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+(bon)
 #### 1.2.3 Études menées sur des sujets voisins
-Des études ont en effets été menées sur des sujets voisins.
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
+(bon)
 #### 1.2.4 Suites prévues
-Nous prévoyons de créer un système de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
+Nous prévoyons de créer une application de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
+(bon)
 #### 1.2.5 Nature des prestations demandées
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
-Secret sur les technologies utilisés.
+Secret sur les technologies utilisées.
+(bon)
 ### 1.3 Énoncé du besoin 
-Suivre automatiquement des véhicules permettant de se reposer ou de passer du temps avec les passagers
+Suivre automatiquement des véhicules aillant également cette technologie permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
+(bon)
 ### 1.4 Environnement du produit recherché
-Adultes de tout âges plutôt aisées
+Le produit est destiné aux adultes de tout âges plutôt aisées.
+(bon)
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
-Contraine environnementale, fréquence des appareils électroniques,
+Contrainte environnementale (non affectation de la faune et de la flore), contrainte économique (coût de création du produit), fréquence des ondes des appareils électroniques.
+(bon)
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
--Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture
--Prise en compte des usagers non liés avec la voiture et d'éventuels accidents
--Reprise du contrôle du véhicule facile
-
+-Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture.
+-Prise en compte des usagers non liés avec la voiture et d'éventuels accidents.
+-Reprise facile du contrôle du véhicule.
+(bon)
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
