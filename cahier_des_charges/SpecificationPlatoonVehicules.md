@@ -48,6 +48,7 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 #### 1.2.4 Suites prévues
 Nous prévoyons de créer un système de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
 #### 1.2.5 Nature des prestations demandées
+Réalisation d'un platoon de véhicule sécurisé.
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
 Secret sur les technologies utilisés.
