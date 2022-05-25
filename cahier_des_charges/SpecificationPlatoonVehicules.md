@@ -125,6 +125,8 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
+<img src=../pictures/WBS.png alt="IUT Nantes" width="1000"/>
+
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
