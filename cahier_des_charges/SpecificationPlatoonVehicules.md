@@ -147,8 +147,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 *__Profils de risques__ pour chaque fonction de service*
 
 
-#| 0 | Degré du risque pour la fonction |
-
+--------------------------------Degré du risque
 |Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -157,12 +156,6 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
 
-|Nom | Prénom | mail
-| ------ | ------ | ------ |
-| PAYET | Lucas | lucas.payet@etu.univ-nantes.fr |
-| DELHOMMEAU | Lilian | lilian.delhommeau@etu.univ-nantes.fr |
-| CAILLETEAU | Pacôme | pacome.cailleteau@etu.univ-nantes.fr |
-| LEBOEUF | Arnaud | arnaud.leboeuf@etu.univ-nantes.fr |
 
 ### 4.2 Prévision des défaillances
 *Table de défaillance pour chaque fonction de service avec un paragraphe commentant chaque défaillance et/ou chaque cause/effet/détection d’importance notable*
