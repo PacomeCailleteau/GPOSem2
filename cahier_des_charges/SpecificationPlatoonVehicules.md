@@ -38,6 +38,7 @@ Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhi
 manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
 Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
 les risques et les bénéfices sont déjà bien connus.
+
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
@@ -48,7 +49,10 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 #### 1.2.4 Suites prévues
 Nous prévoyons de créer un système de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
 #### 1.2.5 Nature des prestations demandées
+Réalisation d'un platoon de véhicule sécurisé.
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
+Les demandeurs sont les grands constructeurs automobile comme Renaud, Citroën, Peugeot, ...
+Les utilisateurs seront les familles voulant d'un moment convivial en voiture ou encore les conducteurs nocturnes.
 #### 1.2.7 Caractère confidentiel s'il y a lieu
 Secret sur les technologies utilisés.
 ### 1.3 Énoncé du besoin 
@@ -92,12 +96,11 @@ Contraine environnementale, fréquence des appareils électroniques,
 -Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction et/ou de vitesse rapidement.
 
 
-*(Niveaux souhaités mais révisables)*
+
 #### 2.1.2 Fonctions de service complémentaires 
 
 *(qui améliorent, facilitent ou complètent le service rendu)*
 ##### 2.1.2.1 Description et détail
-
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 
