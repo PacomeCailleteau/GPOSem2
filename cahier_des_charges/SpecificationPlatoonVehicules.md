@@ -142,8 +142,18 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 #### 3.x.7 Perspectives d’évolution technologique
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
-
 *__Profils de risques__ pour chaque fonction de service*
+
+
+|  | Degré du risque pour la fonction |
+|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Taille de la fonction | | | | | |
+| Taille de la fonction | | | | | |
+| Taille de la fonction | | | | | |
+| Taille de la fonction | | | | | |
+| Taille de la fonction | | | | | |
+
 ### 4.2 Prévision des défaillances
 *Table de défaillance pour chaque fonction de service avec un paragraphe commentant chaque défaillance et/ou chaque cause/effet/détection d’importance notable*
 ### 4.3 Gestion des défaillances
