@@ -33,11 +33,7 @@ Nous espérons que le projet apportera une meilleure image pour l'entreprise et 
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
-Le projet n'est pas prioritaire mais est phase de maquette, et une bonne partie de nos employés travaille activement sur la réalisation de cette maquette.
-Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhicules et de permettre une nouvelles fonctionnalités non négligeables qui augmenterait de 
-manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
-Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
-les risques et les bénéfices sont déjà bien connus. 
+Ce projet sort de l'ordinaire des projets de notre entreprise, il est très prometteur mais a également plus de risques d'échec que nos projets habituels
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
@@ -87,13 +83,10 @@ Contraine environnementale, fréquence des appareils électroniques,
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
-
-
 *(Niveaux souhaités mais révisables)*
 #### 2.1.2 Fonctions de service complémentaires 
 *(qui améliorent, facilitent ou complètent le service rendu)*
 ##### 2.1.2.1 Description et détail
-
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 
