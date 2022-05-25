@@ -145,7 +145,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 *__Profils de risques__ pour chaque fonction de service*
 
 
---------------------Degré du risque
+--------------------------------Degré du risque
 |Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
