@@ -28,45 +28,54 @@ Projet de véhicules autonomes connectés entre eux
 
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
+(bon)
 #### 1.1.2 Espérance de retour sur investissement
-Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client qui pourra à présent profiter du voyage sans être concentré à 100% sur la route.
+Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client.
+Nous espérons également que le projet soit rentable pour l'entreprise.
+(bon)
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
+
 Le projet n'est pas prioritaire mais est phase de maquette, et une bonne partie de nos employés travaille activement sur la réalisation de cette maquette.
 Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhicules et de permettre une nouvelles fonctionnalités non négligeables qui augmenterait de 
 manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
 Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
 les risques et les bénéfices sont déjà bien connus.
-
+(bon)
 #### 1.2.2 Études déjà effectuées
-Des études ont déjà été effectuées sur ce sujet.
-Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
-Sur le plan des voitures autonomes, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
+Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+(bon)
 #### 1.2.3 Études menées sur des sujets voisins
-Des études ont en effets été menées sur des sujets voisins.
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
+(bon)
 #### 1.2.4 Suites prévues
-Nous prévoyons de créer un système de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
+Nous prévoyons de créer une application de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
+(bon)
 #### 1.2.5 Nature des prestations demandées
 Réalisation d'un platoon de véhicule sécurisé.
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 Les demandeurs sont les grands constructeurs automobile comme Renaud, Citroën, Peugeot, ...
 Les utilisateurs seront les familles voulant d'un moment convivial en voiture ou encore les conducteurs nocturnes.
 #### 1.2.7 Caractère confidentiel s'il y a lieu
-Secret sur les technologies utilisés.
+Secret sur les technologies utilisées.
+(bon)
 ### 1.3 Énoncé du besoin 
-Suivre automatiquement des véhicules permettant de se reposer ou de passer du temps avec les passagers
+Suivre automatiquement des véhicules aillant également cette technologie permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
+(bon)
 ### 1.4 Environnement du produit recherché
-Adultes de tout âges plutôt aisées
+Le produit est destiné aux adultes de tout âges plutôt aisées.
+(bon)
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
-Contraine environnementale, fréquence des appareils électroniques,
+Contrainte environnementale (non affectation de la faune et de la flore), contrainte économique (coût de création du produit), fréquence des ondes des appareils électroniques.
+(bon)
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
--Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture
--Prise en compte des usagers non liés avec la voiture et d'éventuels accidents
--Reprise du contrôle du véhicule facile
-
+-Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture.
+-Prise en compte des usagers non liés avec la voiture et d'éventuels accidents.
+-Reprise facile du contrôle du véhicule.
+(bon)
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
@@ -120,6 +129,8 @@ Contraine environnementale, fréquence des appareils électroniques,
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
+<img src=../pictures/WBS.png alt="IUT Nantes" width="1000"/>
+
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
@@ -138,6 +149,19 @@ Contraine environnementale, fréquence des appareils électroniques,
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
 *__Profils de risques__ pour chaque fonction de service*
+
+
+--------------------------------Degré du risque
+|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
+| Difficulté technique | 0 | 0 | 0 | 0 | 0 | 0 |
+| Degré d’intégration | 0 | 0 | 0 | 0 | 0 | 0 |
+| Configuration organisationnelle | 0 | 0 | 0 | 0 | 0 | 0 |
+| Changement | 0 | 0 | 0 | 0 | 0 | 0 |
+| Instabilité de l’équipe de projet | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
 ### 4.2 Prévision des défaillances
 *Table de défaillance pour chaque fonction de service avec un paragraphe commentant chaque défaillance et/ou chaque cause/effet/détection d’importance notable*
 ### 4.3 Gestion des défaillances
