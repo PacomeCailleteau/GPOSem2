@@ -149,7 +149,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 
 #| 0 | Degré du risque pour la fonction |
 
-|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 |
+|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 |
