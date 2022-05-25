@@ -33,6 +33,7 @@ Nous espérons que le projet apportera une meilleure image pour l'entreprise et 
 ### 1.2 Contexte
 
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
+  
 #### 1.2.2 Études déjà effectuées
 Des études ont déjà été effectuées sur ce sujet.
 Par exemple, la société Scania a déjà étudiées les platoon de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
@@ -65,9 +66,9 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
--Fonction principale 1: Se suivre.
--Fonction principale 2: Gérer leur vitesse.
--Fonction principale 3: Gérer leur déplacement.
+-Fonction principale 1: Se suivre. (5)
+-Fonction principale 2: Gérer leur vitesse. (4)
+-Fonction principale 3: Gérer leur déplacement. (4)
 ##### 2.1.1.1 Description et détail
 -Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
 -Fonction 2: Les robots doivent communiquer les informations concernant leur vitesse.
@@ -75,6 +76,7 @@ Par exemple, des études ont été menées pour un bus autonome à la RATP : htt
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
+
 
 
 *(Niveaux souhaités mais révisables)*
