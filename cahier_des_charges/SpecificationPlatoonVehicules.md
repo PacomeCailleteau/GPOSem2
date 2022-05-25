@@ -149,10 +149,11 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 |Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
-| Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
-| Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
-| Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
-| Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 0 |
+| Difficulté technique | 0 | 0 | 0 | 0 | 0 | 0 |
+| Degré d’intégration | 0 | 0 | 0 | 0 | 0 | 0 |
+| Configuration organisationnelle | 0 | 0 | 0 | 0 | 0 | 0 |
+| Changement | 0 | 0 | 0 | 0 | 0 | 0 |
+| Instabilité de l’équipe de projet | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
 ### 4.2 Prévision des défaillances
