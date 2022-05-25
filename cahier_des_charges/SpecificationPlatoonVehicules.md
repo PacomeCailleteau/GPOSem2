@@ -105,6 +105,8 @@ Contraine environnementale, fréquence des appareils électroniques,
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
+<img src=../pictures/WBS.png alt="IUT Nantes" width="600"/>
+
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
