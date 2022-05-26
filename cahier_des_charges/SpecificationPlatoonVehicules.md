@@ -125,7 +125,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 ## 3. Cadre de réponse
 *__Diagramme de classes métiers__ : à base de classes métiers (des concepts indépendants de la programmation, avec des attributs mais sans méthodes, ainsi que des relations entre les concepts sur les agissements des classes métiers les unes sur les autres)*
 
-<img src=../pictures/Diagramme de classe métier Gestion de projet.png alt="IUT Nantes" width="1000"/>
+<img src=../pictures/Diagramme_de_classe_métier_Gestion_de_projet.png alt="IUT Nantes" width="1000"/>
 
 *Synthèse des jalons : __tables synthétiques des jalons__ du projet.*
 ### 3.1 *Pour chaque fonction : fonction 1*
