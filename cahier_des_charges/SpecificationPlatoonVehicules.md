@@ -129,6 +129,8 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
+
+
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.1.3 Part du prix attribué à chaque fonction
