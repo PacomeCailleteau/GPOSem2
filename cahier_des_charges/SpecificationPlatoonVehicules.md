@@ -80,6 +80,8 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
+
+
 <img src=../pictures/cas_utilisation.png alt="cas_utilisation" width="500"/>
 
 *Chaque fonction doit être classée selon différents critères :*
