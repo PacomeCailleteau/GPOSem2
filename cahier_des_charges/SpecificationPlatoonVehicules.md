@@ -176,14 +176,23 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *__Jalon__ : Doit être livrée le 11/07 maximum.*
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.3.3 Part du prix attribué à chaque fonction
+
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
+
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
+Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
+Pouvoir communiquer par un tchat textuel local aux autres véchiules.
+
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
 #### 3.x.5 Décomposition en modules, sous-ensembles
+
+
 #### 3.x.7 Perspectives d’évolution technologique
+Pouvoir permettre au platoon d'accepter d'autres véhicules que les voitures (ex: Moto, camping-car).
+
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
 *__Profils de risques__ pour chaque fonction de service*
