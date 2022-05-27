@@ -104,8 +104,8 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 -Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1
--Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms
--Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction et/ou de vitesse rapidement. Temps de réaction: 10ms avec marge de +/- 2ms
+-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo/s avec une marge de +/- 5 Mo/s; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms
+-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement avec les informations échangés. Temps de réaction: 17ms avec marge de +/- 2ms
 
 #### 2.1.2 Fonctions de service complémentaires 
 *(qui améliorent, facilitent ou complètent le service rendu)*
@@ -147,7 +147,8 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
+Critère 1 : Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. <br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.1.3 Part du prix attribué à chaque fonction
 5/10 du budget
 
@@ -167,7 +168,9 @@ Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir de
 
 
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
+Critère 1 : La quantité d'information envoyé est de 53Mo/s.<br/>
+Critère 2 : Le temps de latence est de 12ms.<br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.2.3 Part du prix attribué à chaque fonction
 2/10ème du budget
 
@@ -187,7 +190,8 @@ Il faut contrôler le prix des équipements utilisés, le temps d'instalation de
 
 
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
+Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteindre tout les véhicules, c'est donc un succès<br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.3.3 Part du prix attribué à chaque fonction
 3/10ème du budget
 
@@ -200,6 +204,8 @@ Il faut contrôler le prix des équipements utilisés, le temps d'instalation de
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
 #### 3.x.5 Décomposition en modules, sous-ensembles
 #### 3.x.7 Perspectives d’évolution technologique
+
+
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
 *__Profils de risques__ pour chaque fonction de service*
