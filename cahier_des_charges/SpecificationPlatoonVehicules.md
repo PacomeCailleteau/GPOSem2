@@ -125,18 +125,18 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 ## 3. Cadre de réponse
 *__Diagramme de classes métiers__ : à base de classes métiers (des concepts indépendants de la programmation, avec des attributs mais sans méthodes, ainsi que des relations entre les concepts sur les agissements des classes métiers les unes sur les autres)*
 
-<img src=../pictures/DDC.png alt="IUT Nantes" width="1000"/>
+<img src=../pictures/DDC.png alt="Diagramme de classe" width="1000"/>
 
 *Synthèse des jalons : __tables synthétiques des jalons__ du projet.*
 ### 3.1 *Pour chaque fonction : fonction 1*
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS.png alt="IUT Nantes" width="1000"/>
+<img src=../pictures/WBS.png alt="WBS" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSequence.png alt="IUT Nantes" width="1000"/>
+<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
