@@ -144,6 +144,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 19/07 maximum (fin du codage)*
+
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 Critère 1 : Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. <br/>
 Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
@@ -159,6 +160,7 @@ Il faut contrôler le prix des équipements utilisés, le temps d'installation d
 <img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 9/07 maximum.*
+
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 Critère 1 : La quantité d'information envoyé est de 53Mo/s.<br/>
 Critère 2 : Le temps de latence est de 12ms.<br/>
@@ -175,13 +177,20 @@ Il faut contrôler le prix des équipements utilisés, le temps d'installation d
 <img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 11/07 maximum.*
+
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteindre tout les véhicules, c'est donc un succès<br/>
 Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.3.3 Part du prix attribué à chaque fonction
+
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
+Salariés : 200 000€ (50 salariés x 2 mois de travail à 2000€) <br/>
+Matériels : 500 000€ <br/>
+Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
+Total : 1 700 000€
+
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
