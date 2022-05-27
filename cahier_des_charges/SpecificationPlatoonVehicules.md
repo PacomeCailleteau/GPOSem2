@@ -118,9 +118,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 -Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères;
+-Fonction 2: Critère 1:
 
 *(Niveaux souhaités mais révisables)*
--Fonction 2: Critère 1: Avoir la possibilité de voir les alentours de sa voiture. Vue à 20m autour du véhicule +- 5m
 #### 2.1.3 Contraintes 
 *(limitations à la liberté du concepteur-réalisateur)*
 En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule
@@ -143,15 +143,8 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
-
-
-
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.1.3 Part du prix attribué à chaque fonction
-5/10 du budget
-
-
 ### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -163,15 +156,8 @@ Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir de
 <img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
-
-
-
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.2.3 Part du prix attribué à chaque fonction
-2/10ème du budget
-
-
 ### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -183,15 +169,8 @@ Il faut contrôler le prix des équipements utilisés, le temps d'instalation de
 <img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
-
-
-
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
-Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.3.3 Part du prix attribué à chaque fonction
-3/10ème du budget
-
-
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
@@ -272,9 +251,9 @@ Table de de défaillance de la fonction principale 3
 - Réagir quand elle s’est produite*
 
 
-<img src=../pictures/matriceCritP1.png alt="Matrice de Criticité fonction Principale 1" width="1000"/>
+<img src=../pictures/matriceCritP1.png alt="Matrice de Criticité fonction Principale 1" width="700"/>
 
-<img src=../pictures/matriceCritP2.png alt="Matrice de Criticité fonction Principale 2" width="1000"/>
+<img src=../pictures/matriceCritP2.png alt="Matrice de Criticité fonction Principale 2" width="700"/>
 Défaillance critique (fonction Principale 2, défaillance 1) : Accélère trop/pas assez
 
 Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système de calcul de distance avec le véhicule de devant pour empêcher les collisions et corriger la vitesse.
@@ -282,7 +261,7 @@ Pour alerter sur cette défaillance critique, on peut mettre en place une alerte
 Pour réagir à cette défaillance critique on peut redonner immédiatement le contrôle au conducteur.
 
 
-<img src=../pictures/matriceCritP3.png alt="Matrice de Criticité fonction Principale 3" width="1000"/>
+<img src=../pictures/matriceCritP3.png alt="Matrice de Criticité fonction Principale 3" width="700"/>
 Défaillance critique (fonction Principale 3, défaillance 2) : Trajectoire mal calculée
 
 Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système d'auto-correction de la trajectoire.
@@ -293,4 +272,5 @@ Pour réagir à cette défaillance critique on peut redonner immédiatement le c
 ## 5 Annexe
 *Le planning ne fait pas partie de la norme car sa décomposition n’importe pas au client à cette phase du projet. Il n’est alors intéressé que par les jalons qui ponctuent la réalisation des différentes fonctionnalités.
 Nous placerons donc le __diagrammes de Gantt__ ici.*
-<img src="../pictures/Gantt.png" alt="Diagramme de Gantt" width="1000"/>
+
+
