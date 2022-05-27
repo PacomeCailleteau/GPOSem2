@@ -209,6 +209,7 @@ Pouvoir communiquer par un tchat textuel local aux autres véchiules.
 
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
+Pour l'installation et la maintenance, il faut prévoir une maquette de route avec des obtacles, des voitures LEGO, un ordinateur qui sert de télécommande.
 #### 3.x.5 Décomposition en modules, sous-ensembles
 
 
