@@ -142,7 +142,31 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.1.3 Part du prix attribué à chaque fonction
 ### 3.2 *Pour chaque fonction : fonction 2*
-#### Etc.
+#### 3.2.1 Solution proposée
+*Tâches à réaliser pour la solution -> __WBS__*
+
+<img src=../pictures/WBS.png alt="WBS" width="1000"/>
+
+*Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
+
+<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
+
+*__Jalon__ : date à laquelle la fonction doit être livrée.*
+#### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+#### 3.2.3 Part du prix attribué à chaque fonction
+### 3.3 *Pour chaque fonction : fonction 3*
+#### 3.3.1 Solution proposée
+*Tâches à réaliser pour la solution -> __WBS__*
+
+<img src=../pictures/WBS.png alt="WBS" width="1000"/>
+
+*Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
+
+<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
+
+*__Jalon__ : date à laquelle la fonction doit être livrée.*
+#### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+#### 3.3.3 Part du prix attribué à chaque fonction
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
