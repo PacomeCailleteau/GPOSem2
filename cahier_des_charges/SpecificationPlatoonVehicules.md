@@ -128,7 +128,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DDC.png alt="Diagramme de classe" width="1000"/>
 
 *Synthèse des jalons : __tables synthétiques des jalons__ du projet.*
-### 3.1 *Pour chaque fonction : fonction 1*
+### 3.1 *Pour chaque fonction : fonction 1 (Se suivre)*
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
@@ -141,7 +141,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.1.3 Part du prix attribué à chaque fonction
-### 3.2 *Pour chaque fonction : fonction 2*
+### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
@@ -154,7 +154,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.2.3 Part du prix attribué à chaque fonction
-### 3.3 *Pour chaque fonction : fonction 3*
+### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
