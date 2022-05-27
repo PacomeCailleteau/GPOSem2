@@ -209,12 +209,8 @@ Pouvoir communiquer par un tchat textuel local aux autres véchiules.
 
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 Pour rester dans notre budget, lors des tests, nous nous assurerons que nos robots ne se cassent pas, pour ainsi éviter d'en refaire.<br/>
-<<<<<<< HEAD
-Nous nous assurerons aussi d' utiliser au maximum nos pièces de construction.
+Nous nous assurerons aussi d' utiliser au maximum nos pièces de construction. Pour être dans les temps, nos test seront coder en parallèle du code principale.
 
-=======
-Lors des tests pour simuler un fossé ou un nid de poule, nous utiliserons les rebords d'une table. Pour éviter que le robot ne se casse s'il y a une chute, nous installerons des matelas pour amortir sa chute. Les objets en mouvement sur la route seront simuler par une balle passant devant le convoi, cela nous évitera de devoir construire un autre robot.
->>>>>>> 979ed055c9a91a01af36eeb52ede340b74acd2cc
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
 #### 3.x.5 Décomposition en modules, sous-ensembles
 
