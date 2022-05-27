@@ -253,6 +253,7 @@ Table de de défaillance de la fonction principale 3
 
 <img src=../pictures/matriceCritP1.png alt="Matrice de Criticité fonction Principale 1" width="500"/>
 
+
 <img src=../pictures/matriceCritP2.png alt="Matrice de Criticité fonction Principale 2" width="500"/>
 
 Défaillance critique (fonction Principale 2, défaillance 1) : Accélère trop/pas assez
