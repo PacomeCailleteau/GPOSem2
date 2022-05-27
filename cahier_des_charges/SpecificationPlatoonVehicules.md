@@ -253,7 +253,7 @@ Table de de défaillance de la fonction principale 3
 
 <img src=../pictures/matriceCritP1.png alt="Matrice de Criticité fonction Principale 1" width="500"/>
 
-
+----------------------------------------
 <img src=../pictures/matriceCritP2.png alt="Matrice de Criticité fonction Principale 2" width="500"/>
 
 Défaillance critique (fonction Principale 2, défaillance 1) : Accélère trop/pas assez
@@ -262,7 +262,7 @@ Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place
 Pour alerter sur cette défaillance critique, on peut mettre en place une alerte sonore et visuelle quand la distance entre le véhicule de devant ou le véhicule de derrière est trop petite.
 Pour réagir à cette défaillance critique on peut redonner immédiatement le contrôle au conducteur.
 
-
+----------------------------------------
 <img src=../pictures/matriceCritP3.png alt="Matrice de Criticité fonction Principale 3" width="500"/>
 
 Défaillance critique (fonction Principale 3, défaillance 2) : Trajectoire mal calculée
