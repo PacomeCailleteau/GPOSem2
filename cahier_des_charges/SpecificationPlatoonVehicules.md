@@ -92,9 +92,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 *On peut regrouper les fonctions dans le __tableau fonctionnel__ selon ces critères puis détailler chacune des fonctions dans les sous-sections suivantes*
 
 ### 2.1 Fonctions de service et de contrainte
-#### 2.1.1 Fonctions de service principales 
+#### 2.1.1 Fonctions de service principales
 *(qui sont la raison d’être du produit)*
-Fonction principale 1: Se suivre. (5)
+<br/>-Fonction principale 1: Se suivre. (5)
 
 -Fonction principale 2: Gérer leur vitesse. (4)
 
@@ -107,27 +107,28 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
--Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1
--Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
--Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms
+<br/>-Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1.
+<br/>-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; 
+<br/>Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
+<br/>-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms.
 
 #### 2.1.2 Fonctions de service complémentaires 
 *(qui améliorent, facilitent ou complètent le service rendu)*
--Fonction complémentaire 1: Communication entre passagers(3)
--Fonction complémentaire 2: Vue du convoi(1)
+<br/>-Fonction complémentaire 1: Communication entre passagers(3)
+<br/>-Fonction complémentaire 2: Vue du convoi(1)
 
 ##### 2.1.2.1 Description et détail
 -Fonction 1: Les robots peuvent s'envoyer des messages entre eux.
 -Fonction 2: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
--Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères. <br/>
--Fonction 2: Critère 1: Les robot peuvent voir leur place dans le convoi et une vue de haut.
+<br/>-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères. <br/>
+<br/>-Fonction 2: Critère 1: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.3 Contraintes 
 *(limitations à la liberté du concepteur-réalisateur)*
-En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule
+En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule.
 
 ## 3. Cadre de réponse
 *__Diagramme de classes métiers__ : à base de classes métiers (des concepts indépendants de la programmation, avec des attributs mais sans méthodes, ainsi que des relations entre les concepts sur les agissements des classes métiers les unes sur les autres)*
@@ -193,6 +194,7 @@ Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteind
 Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.3.3 Part du prix attribué à chaque fonction
 3/10 du budget
+
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)* <br/>
@@ -202,11 +204,18 @@ Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
 Total : 1 700 000€
 
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
+Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
+Pouvoir communiquer par un tchat textuel local aux autres véchiules.
+
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
 #### 3.x.5 Décomposition en modules, sous-ensembles
+
+
 #### 3.x.7 Perspectives d’évolution technologique
+Pouvoir permettre au platoon d'accepter d'autres véhicules que les voitures (ex: Moto, camping-car).
+
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
 *__Profils de risques__ pour chaque fonction de service*
