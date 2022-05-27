@@ -22,18 +22,14 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 ## 1. Présentation générale du problème
 Nous souhaitons développer un modèle de voitures autonomes capable de se suivre et de communiquer entre elles.
 Pour ce faire, nous commençons par développer une maquette des prototypes.
-(bon)
 ### 1.1 Projet
 Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simulé par la télécommande. Ils pourront éviter les obstacles et optmiser leur vitesse et leurs déplacements.
 Projet de véhicules autonomes connectés entre eux.
-(bon)
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
-(bon)
 #### 1.1.2 Espérance de retour sur investissement
 Nous espérons que le projet apportera une meilleure image pour l'entreprise et une satifaction du client.
 Nous espérons également que le projet soit rentable pour l'entreprise.
-(bon)
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
@@ -42,41 +38,31 @@ Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhi
 manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
 Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
 les risques et les bénéfices sont déjà bien connus.
-(bon)
 #### 1.2.2 Études déjà effectuées
 La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
 Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
-(bon)
 #### 1.2.3 Études menées sur des sujets voisins
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
-(bon)
 #### 1.2.4 Suites prévues
 Nous prévoyons de créer une application de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
-(bon)
 #### 1.2.5 Nature des prestations demandées
 Réalisation d'un platoon de véhicule sécurisé.
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
 Les demandeurs sont les grands constructeurs automobile comme Renaud, Citroën, Peugeot, etc.
 Les utilisateurs seront les familles voulant un moment convivial en voiture ou encore les conducteurs nocturnes.
-(bon)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
 Secret sur les technologies utilisées.
-(bon)
 ### 1.3 Énoncé du besoin 
 Suivre automatiquement des véhicules aillant également cette technologie, permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
-(bon)
 ### 1.4 Environnement du produit recherché
 Le produit est destiné aux adultes de tout âges plutôt aisées.
-(bon)
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
 Contrainte environnementale (non affectation de la faune et de la flore), contrainte économique (coût de création du produit), fréquence des ondes des appareils électroniques.
-(bon)
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
 -Les fréquences d'ondes ne doivent pas perturber les animaux ni les personnes à bord du véhicule.
 -Prise en compte des usagers non liés avec le véhicule et prise en compte d'éventuels accidents.
 -Reprise facile du contrôle du véhicule.
-(bon)
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
