@@ -96,9 +96,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 *(qui sont la raison d’être du produit)*
 <br/>-Fonction principale 1: Se suivre. (5)
 
--Fonction principale 2: Gérer leur vitesse. (4)
+<br/>-Fonction principale 2: Gérer leur vitesse. (4)
 
-Fonction principale 3: Gérer leur déplacement. (4)
+-Fonction principale 3: Gérer leur déplacement. (4)
 
 ##### 2.1.1.1 Description et détail
 Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
