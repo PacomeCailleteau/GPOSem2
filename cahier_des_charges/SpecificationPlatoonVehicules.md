@@ -109,12 +109,13 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 <br/>-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères.
-<br/>-Fonction 2: Critère 1: Les robots peuvent voir leur place dans le convoi et une vue de haut. Vue autour du véhicule 20m autour +-3m.
 
 *(Niveaux souhaités mais révisables)*
+<br/>-Fonction 2: Critère 1: Les robots peuvent voir leur place dans le convoi et une vue de haut. Vue autour du véhicule 20m autour +-3m.
 #### 2.1.3 Contraintes 
 *(limitations à la liberté du concepteur-réalisateur)*<br/>
-En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule.
+En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. <br/>
+Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeurs qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule.
 
 ## 3. Cadre de réponse
 *__Diagramme de classes métiers__ : à base de classes métiers (des concepts indépendants de la programmation, avec des attributs mais sans méthodes, ainsi que des relations entre les concepts sur les agissements des classes métiers les unes sur les autres)*
