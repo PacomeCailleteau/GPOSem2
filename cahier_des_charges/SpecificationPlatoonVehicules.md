@@ -118,9 +118,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 -Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères;
--Fonction 2: Critère 1:
 
 *(Niveaux souhaités mais révisables)*
+-Fonction 2: Critère 1: Avoir la possibilité de voir les alentours de sa voiture. Vue à 20m autour du véhicule +- 5m
 #### 2.1.3 Contraintes 
 *(limitations à la liberté du concepteur-réalisateur)*
 En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule
@@ -143,8 +143,15 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
+
+
+
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.1.3 Part du prix attribué à chaque fonction
+5/10 du budget
+
+
 ### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -156,8 +163,15 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
+
+
+
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.2.3 Part du prix attribué à chaque fonction
+2/10ème du budget
+
+
 ### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -169,8 +183,15 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
+
+
+
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Il faut contrôler le prix des équipements utilisés, le temps d'instalation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.3.3 Part du prix attribué à chaque fonction
+3/10ème du budget
+
+
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
