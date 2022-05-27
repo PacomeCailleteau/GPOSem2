@@ -98,7 +98,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 
 -Fonction principale 2: Gérer leur vitesse. (4)
 
-Fonction principale 3: Gérer leur déplacement. (4)
+-Fonction principale 3: Gérer leur déplacement. (4)
 
 ##### 2.1.1.1 Description et détail
 Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
@@ -127,7 +127,7 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.3 Contraintes 
-*(limitations à la liberté du concepteur-réalisateur)*
+*(limitations à la liberté du concepteur-réalisateur)*<br/>
 En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule.
 
 ## 3. Cadre de réponse
@@ -204,7 +204,7 @@ Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
 Total : 1 700 000€
 
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
-Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
+Pouvoir partager et recevoir les itinéraires des véhicules du platoon. <br>
 Pouvoir communiquer par un tchat textuel local aux autres véchiules.
 
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
