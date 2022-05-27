@@ -131,15 +131,16 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DDC.png alt="Diagramme de classe" width="1000"/>
 
 *Synthèse des jalons : __tables synthétiques des jalons__ du projet.*
+
 ### 3.1 *Pour chaque fonction : fonction 1 (Se suivre)*
 #### 3.1.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS.png alt="WBS" width="1000"/>
+<img src=../pictures/WBS_F1.png alt="WBS Fonction 1" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
+<img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
