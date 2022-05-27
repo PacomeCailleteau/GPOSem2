@@ -39,10 +39,10 @@ manière considérable notre chiffre d'affaires et attirerait plus de clients su
 Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour le moment, l'investissement mis dans ce projet est donc très raisonnables par rapport aux autres projets de l'entreprises dont
 les risques et les bénéfices sont déjà bien connus.
 #### 1.2.2 Études déjà effectuées
-La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
-<br/>Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY.
+<br/>Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms.
 #### 1.2.3 Études menées sur des sujets voisins
-Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
+Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE.
 #### 1.2.4 Suites prévues
 Nous prévoyons de créer une application de covoiturage utilisant cette technologie et également un système de demande de voiture à distance mais pour cette dernière les lois actuelles nous l'interdisent.
 #### 1.2.5 Nature des prestations demandées
