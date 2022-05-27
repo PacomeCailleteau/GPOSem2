@@ -136,7 +136,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSéquence.png alt="IUT Nantes" width="1000"/>
+<img src=../pictures/DiagrammeDeSequence.png alt="IUT Nantes" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
