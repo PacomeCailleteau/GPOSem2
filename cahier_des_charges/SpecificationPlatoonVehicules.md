@@ -22,10 +22,11 @@ Tout ce qui est en italique doit être remplacé. Chaque section doit contenir a
 ## 1. Présentation générale du problème
 Nous souhaitons développer un modèle de voitures autonomes capable de se suivre et de communiquer entre elles.
 Pour ce faire, nous commençons par développer une maquette des prototypes.
+(bon)
 ### 1.1 Projet
-Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simuler par la télécommande. Il pourront éviter les obstacles et optmiser leur vitesses et déplacements.
-Projet de véhicules autonomes connectés entre eux
-
+Nous allons mettre en place une maquette fait à partir d'au moins trois robots. Le premier conducteur sera simulé par la télécommande. Ils pourront éviter les obstacles et optmiser leur vitesse et leurs déplacements.
+Projet de véhicules autonomes connectés entre eux.
+(bon)
 #### 1.1.1 Finalités
 A terme nous espérons que la maquette puissent arriver au stade de modèle concret pour la mise en place dans la réalité.
 (bon)
@@ -36,7 +37,6 @@ Nous espérons également que le projet soit rentable pour l'entreprise.
 ### 1.2 Contexte
 Les technologies évoluent rapidement et peuvent actuellement permettre de sauver des vies. Le projet vise donc à utiliser ces technologies pour sécuriser le déplacement des véhicules.
 #### 1.2.1 Situation du projet par rapport aux autres projets de l’entreprise
-
 Le projet n'est pas prioritaire mais est phase de maquette, et une bonne partie de nos employés travaille activement sur la réalisation de cette maquette.
 Ce projet est pour nous essentiel car il permettrait de révolutionner nos véhicules et de permettre une nouvelles fonctionnalités non négligeables qui augmenterait de 
 manière considérable notre chiffre d'affaires et attirerait plus de clients sur notre gammes de véhicules.
@@ -56,13 +56,14 @@ Nous prévoyons de créer une application de covoiturage utilisant cette technol
 #### 1.2.5 Nature des prestations demandées
 Réalisation d'un platoon de véhicule sécurisé.
 #### 1.2.6 Parties concernées par le déroulement du projet et ses résultats (demandeurs, utilisateurs)
-Les demandeurs sont les grands constructeurs automobile comme Renaud, Citroën, Peugeot, ...
-Les utilisateurs seront les familles voulant d'un moment convivial en voiture ou encore les conducteurs nocturnes.
+Les demandeurs sont les grands constructeurs automobile comme Renaud, Citroën, Peugeot, etc.
+Les utilisateurs seront les familles voulant un moment convivial en voiture ou encore les conducteurs nocturnes.
+(bon)
 #### 1.2.7 Caractère confidentiel s'il y a lieu
 Secret sur les technologies utilisées.
 (bon)
 ### 1.3 Énoncé du besoin 
-Suivre automatiquement des véhicules aillant également cette technologie permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
+Suivre automatiquement des véhicules aillant également cette technologie, permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
 *(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
 (bon)
 ### 1.4 Environnement du produit recherché
@@ -72,8 +73,8 @@ Le produit est destiné aux adultes de tout âges plutôt aisées.
 Contrainte environnementale (non affectation de la faune et de la flore), contrainte économique (coût de création du produit), fréquence des ondes des appareils électroniques.
 (bon)
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
--Fréquences d'ondes qui ne doivent pas perturber les animaux ni les personnes à bord de la voiture.
--Prise en compte des usagers non liés avec la voiture et d'éventuels accidents.
+-Les fréquences d'ondes ne doivent pas perturber les animaux ni les personnes à bord du véhicule.
+-Prise en compte des usagers non liés avec le véhicule et prise en compte d'éventuels accidents.
 -Reprise facile du contrôle du véhicule.
 (bon)
 ## 2. Expression fonctionnelle du besoin
@@ -91,7 +92,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
 -Fonction principale 1: Se suivre. (5)
+
 -Fonction principale 2: Gérer leur vitesse. (4)
+
 -Fonction principale 3: Gérer leur déplacement. (4)
 ##### 2.1.1.1 Description et détail
 -Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
