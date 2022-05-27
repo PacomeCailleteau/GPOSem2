@@ -149,7 +149,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS_F1.png alt="WBS fonction 2" width="1000"/>
+<img src=../pictures/WBS_F2.png alt="WBS fonction 2" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
@@ -162,11 +162,11 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS_F1.png alt="WBS fonction 3" width="1000"/>
+<img src=../pictures/WBS_F3.png alt="WBS fonction 3" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence fonction 3" width="1000"/>
+<img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
@@ -218,9 +218,33 @@ Degré du risque de la fonction principale 3
 
 ### 4.2 Prévision des défaillances
 *Table de défaillance pour chaque fonction de service avec un paragraphe commentant chaque défaillance et/ou chaque cause/effet/détection d’importance notable*
+Table de de défaillance de la fonction principale 1
+| Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
+| ------ | ------ | ------ | ------ |
+| Ne suivent pas le premier robot | Problème de capteur | Danger matériel et humain | Vérification Technique Régulière |
+| Ne quitte jamais le convoi | Programme défaillant | Contraint à suivre le premier véhicule | Tester Régulièrement la Fonctionalité |
+
+
+----------------------------------------
+Table de de défaillance de la fonction principale 2
+| Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
+| ------ | ------ | ------ | ------ |
+| Accélère trop/pas assez | Bug dans le programme/Valeurs de vitesse incorrectes | Collision entre les véhicules | Tester le calibrage |
+
+
+----------------------------------------
+Table de de défaillance de la fonction principale 3
+| Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
+| ------ | ------ | ------ | ------ |
+| Crémaillère de direction endommagée | Problème mécanique | Dangers pour la sécurité du véhicule et de ses occupants | Contrôle technique régulier de l'appareil |
+| Trajectoire mal calculée | Bug dans le programme/Tests insuffisants | Dangers pour la sécurité du véhicule et de ses occupants | Test du programme régulier |
+
+
+
+
 ### 4.3 Gestion des défaillances
 
-*La __Matrice de criticité__*
+*La __Matrice de criticité__*16:02 27/05/2022
 *Pour chaque défaillance critique (en zone noire ou proche), un paragraphe expliquant comment
 - L’empêcher
 - Alerter que elle est en voie de se produire
