@@ -186,7 +186,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
-*Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
+*Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)* <br/>
 Salariés : 200 000€ (50 salariés x 2 mois de travail à 2000€) <br/>
 Matériels : 500 000€ <br/>
 Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
