@@ -142,7 +142,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 <img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
-*__Jalon__ : date à laquelle la fonction doit être livrée.*
+*__Jalon__ : Doit être livrée le 19/07 maximum (fin du codage)*
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.1.3 Part du prix attribué à chaque fonction
 ### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
@@ -155,7 +155,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 <img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
-*__Jalon__ : date à laquelle la fonction doit être livrée.*
+*__Jalon__ : Doit être livrée le 9/07 maximum.*
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.2.3 Part du prix attribué à chaque fonction
 ### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
@@ -168,7 +168,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 
 <img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
-*__Jalon__ : date à laquelle la fonction doit être livrée.*
+*__Jalon__ : Doit être livrée le 11/07 maximum.*
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 #### 3.3.3 Part du prix attribué à chaque fonction
 ### 3.x Pour l’ensemble du produit
