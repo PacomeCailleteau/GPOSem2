@@ -133,7 +133,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *Synthèse des jalons : __tables synthétiques des jalons__ du projet.*
 
 | Jalons 1 | Jalons 2 | Jalons 3
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ |
 | Fin Analyse | Fin Développement | Fin Construction |
 
 
