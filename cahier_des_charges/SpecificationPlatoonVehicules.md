@@ -96,7 +96,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 *(qui sont la raison d’être du produit)*
 <br/>-Fonction principale 1: Se suivre. (5)
 
-<br/>-Fonction principale 2: Gérer leur vitesse. (4)
+-Fonction principale 2: Gérer leur vitesse. (4)
 
 -Fonction principale 3: Gérer leur déplacement. (4)
 
@@ -127,7 +127,7 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.3 Contraintes 
-*(limitations à la liberté du concepteur-réalisateur)*
+*(limitations à la liberté du concepteur-réalisateur)*<br/>
 En termes des contraintes, nous nous limiterons à nos robots Lego pour la maquette. Le robot en tête du convoi sera contrôlé par une télécommande. Pour les obstacles, nous nous contenterons de représenter 2 obstacles majeur qu'on retrouve sur la route: un objet en mouvement qui passe devant le véhicule, et un nid de poule.
 
 ## 3. Cadre de réponse
