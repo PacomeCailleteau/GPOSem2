@@ -276,6 +276,6 @@ Pour réagir à cette défaillance critique on peut redonner immédiatement le c
 Le planning ne fait pas partie de la norme car sa décomposition n’importe pas au client à cette phase du projet. Il n’est alors intéressé que par les jalons qui ponctuent la réalisation des différentes fonctionnalités.
 Nous placerons donc le diagrammes de Gantt ici.
 
-<img src=../pictures/Gantt.png alt="Diagramme de Gantt" width="500"/>
+<img src=../pictures/Gantt.png alt="Diagramme de Gantt" width="10000"/>
 
 
