@@ -81,6 +81,9 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
 
+
+<img src=../pictures/cas_utilisation.png alt="cas_utilisation" width="500"/>
+
 *Chaque fonction doit être classée selon différents critères :*
 - *coefficient de pondération (de 1 à 5) : selon la valeur, l’importance de la fonction*
 - *critère d’appréciation : comment sera apprécié le succès de la réalisation d’une fonction (« doit rendre le résultat correct en moins de x sec. »)*
@@ -91,21 +94,22 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
--Fonction principale 1: Se suivre. (5)
+Fonction principale 1: Se suivre. (5)
 
 -Fonction principale 2: Gérer leur vitesse. (4)
 
--Fonction principale 3: Gérer leur déplacement. (4)
+Fonction principale 3: Gérer leur déplacement. (4)
+
 ##### 2.1.1.1 Description et détail
--Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
--Fonction 2: Les robots doivent communiquer les informations concernant leur vitesse.
--Fonction 3: Les robots doivent contrôler leur déplacement pour rester rattacher au convoi et éviter les obstacles.
+Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
+<br/>Fonction 2: Les robots doivent communiquer les informations concernant leur vitesse.
+<br/>Fonction 3: Les robots doivent contrôler leur déplacement pour rester rattacher au convoi et éviter les obstacles.
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 -Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1
--Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms
--Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction et/ou de vitesse rapidement. Temps de réaction: 10ms avec marge de +/- 2ms
+-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
+-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms
 
 #### 2.1.2 Fonctions de service complémentaires 
 *(qui améliorent, facilitent ou complètent le service rendu)*
@@ -117,8 +121,8 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 -Fonction 2: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
--Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères;
--Fonction 2: Critère 1:
+-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères. <br/>
+-Fonction 2: Critère 1: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.3 Contraintes 
@@ -148,8 +152,12 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF1.png alt="Diagramme de séquence" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 19/07 maximum (fin du codage)*
+
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Critère 1 : Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. <br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
 #### 3.1.3 Part du prix attribué à chaque fonction
+5/10 du budget
 ### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -161,8 +169,13 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 9/07 maximum.*
+
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Critère 1 : La quantité d'information envoyé est de 53Mo/s.<br/>
+Critère 2 : Le temps de latence est de 12ms.<br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.2.3 Part du prix attribué à chaque fonction
+2/10 du budget
 ### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
@@ -174,12 +187,20 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 <img src=../pictures/DiagrammeDeSequenceF3.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : Doit être livrée le 11/07 maximum.*
+
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
+Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteindre tout les véhicules, c'est donc un succès.<br/>
+Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.3.3 Part du prix attribué à chaque fonction
+3/10 du budget
 
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
-*Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)*
+*Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)* <br/>
+Salariés : 200 000€ (50 salariés x 2 mois de travail à 2000€) <br/>
+Matériels : 500 000€ <br/>
+Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
+Total : 1 700 000€
 
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
 Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
