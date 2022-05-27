@@ -203,7 +203,7 @@ Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
 Total : 1 700 000€
 
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
-Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
+Pouvoir partager et recevoir les itinéraires des véhicules du platoon. <br>
 Pouvoir communiquer par un tchat textuel local aux autres véchiules.
 
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
