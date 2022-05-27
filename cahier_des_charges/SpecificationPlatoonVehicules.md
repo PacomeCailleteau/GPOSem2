@@ -225,14 +225,14 @@ Table de de défaillance de la fonction principale 1
 | Ne quitte jamais le convoi | Programme défaillant | Contraint à suivre le premier véhicule | Tester Régulièrement la Fonctionalité |
 
 
-
+----------------------------------------
 Table de de défaillance de la fonction principale 2
 | Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
 | ------ | ------ | ------ | ------ |
 | Accélère trop/pas assez | Bug dans le programme/Valeurs de vitesse incorrectes | Collision entre les véhicules | Tester le calibrage |
 
 
-
+----------------------------------------
 Table de de défaillance de la fonction principale 3
 | Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
 | ------ | ------ | ------ | ------ |
