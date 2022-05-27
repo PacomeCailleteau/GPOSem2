@@ -275,5 +275,4 @@ Table de de défaillance de la fonction principale 3
 ## 5 Annexe
 *Le planning ne fait pas partie de la norme car sa décomposition n’importe pas au client à cette phase du projet. Il n’est alors intéressé que par les jalons qui ponctuent la réalisation des différentes fonctionnalités.
 Nous placerons donc le __diagrammes de Gantt__ ici.*
-
-
+<img src="../pictures/Gantt.png" alt="Diagramme de Gantt" width="1000"/>
