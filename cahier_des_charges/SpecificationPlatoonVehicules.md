@@ -54,7 +54,7 @@ Les utilisateurs seront les familles voulant un moment convivial en voiture ou e
 Secret sur les technologies utilisées.
 ### 1.3 Énoncé du besoin 
 Suivre automatiquement des véhicules aillant également cette technologie, permettant au conducteur de se reposer ou de passer du temps avec les passagers présent à bord.
-*(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
+<br/>*(finalités du produit pour le futur utilisateur tel que prévu par le demandeur)*
 ### 1.4 Environnement du produit recherché
 Le produit est destiné aux adultes de tout âges plutôt aisées.
 #### 1.4.1 Listes exhaustives des éléments *(personnes, équipements, matières…)* et contraintes *(e.g. environnement)*
@@ -93,9 +93,9 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
-<br/>-Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1.
+<br/>-Fonction 1: Critère 1: Le convoi ne doit pas dépasser une certaine taille. Taille préférable: 3 véhicule  avec une marge de +/- 1.
 <br/>-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo.
-<br/>Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
+<br/>Critère 2: Les informations doivent circuler rapidement. Temps d'échange: 10ms avec marge de +/- 3 ms.
 <br/>-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms.
 
 #### 2.1.2 Fonctions de service complémentaires 
@@ -109,7 +109,7 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 <br/>-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères.
-<br/>-Fonction 2: Critère 1: Les robot peuvent voir leur place dans le convoi et une vue de haut.
+<br/>-Fonction 2: Critère 1: Les robots peuvent voir leur place dans le convoi et une vue de haut. Vue autour du véhicule 20m autour +-3m.
 
 *(Niveaux souhaités mais révisables)*
 #### 2.1.3 Contraintes 
@@ -249,7 +249,7 @@ Table de de défaillance de la fonction principale 1
 | Défaillance Possible | Causes Potentielles | Effets Potentiels de la défaillance | Comment détecter?
 | ------ | ------ | ------ | ------ |
 | Ne suivent pas le premier robot | Problème de capteur | Danger matériel et humain | Vérification Technique Régulière |
-| Ne quitte jamais le convoi | Programme défaillant | Contraint à suivre le premier véhicule | Tester Régulièrement la Fonctionalité |
+| Ne quitte jamais le convoi | Programme défaillant | Contraint à suivre le premier véhicule | Tester Régulièrement la Fonctionnalité |
 
 
 ----------------------------------------
@@ -285,8 +285,8 @@ Table de de défaillance de la fonction principale 3
 
 Défaillance critique (fonction Principale 2, défaillance 1) : Accélère trop/pas assez
 
-Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système de calcul de distance avec le véhicule de devant pour empêcher les collisions et corriger la vitesse.
-Pour alerter sur cette défaillance critique, on peut mettre en place une alerte sonore et visuelle quand la distance entre le véhicule de devant ou le véhicule de derrière est trop petite.
+Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système de calcul de distance avec le véhicule de devant pour empêcher les collisions et corriger la vitesse.<br/>
+Pour alerter sur cette défaillance critique, on peut mettre en place une alerte sonore et visuelle quand la distance entre le véhicule de devant ou le véhicule de derrière est trop petite.<br/>
 Pour réagir à cette défaillance critique on peut redonner immédiatement le contrôle au conducteur.
 
 ----------------------------------------
@@ -294,8 +294,8 @@ Pour réagir à cette défaillance critique on peut redonner immédiatement le c
 
 Défaillance critique (fonction Principale 3, défaillance 2) : Trajectoire mal calculée
 
-Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système d'auto-correction de la trajectoire.
-Pour alerter sur cette défaillance critique, on peut mettre en place une alerte sonore et visuelle quand la trajectoire actuelle du véhicule ne correspond pas à la trajectoire de la route.
+Pour empêcher cette défaillance critique d'avoir lieu, on peut mettre en place un système d'auto-correction de la trajectoire.<br/>
+Pour alerter sur cette défaillance critique, on peut mettre en place une alerte sonore et visuelle quand la trajectoire actuelle du véhicule ne correspond pas à la trajectoire de la route.<br/>
 Pour réagir à cette défaillance critique on peut redonner immédiatement le contrôle au conducteur.
 
 
