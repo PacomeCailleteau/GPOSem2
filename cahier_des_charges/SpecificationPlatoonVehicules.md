@@ -212,6 +212,7 @@ Pour rester dans notre budget, lors des tests, nous nous assurerons que nos robo
 Nous nous assurerons aussi d' utiliser au maximum nos pièces de construction. Pour être dans les temps, nos test seront coder en parallèle du code principale.
 
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
+Pour l'installation et la maintenance, il faut prévoir une maquette de route avec des obtacles, des voitures LEGO, un ordinateur qui sert de télécommande.
 #### 3.x.5 Décomposition en modules, sous-ensembles
 
 
