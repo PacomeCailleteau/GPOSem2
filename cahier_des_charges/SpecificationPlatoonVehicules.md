@@ -80,6 +80,7 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
+<img src=../pictures/cas_utilisation alt="cas_utilisation" width="1000"/>
 
 *Chaque fonction doit être classée selon différents critères :*
 - *coefficient de pondération (de 1 à 5) : selon la valeur, l’importance de la fonction*
@@ -91,13 +92,14 @@ Contrainte environnementale (non affectation de la faune et de la flore), contra
 ### 2.1 Fonctions de service et de contrainte
 #### 2.1.1 Fonctions de service principales 
 *(qui sont la raison d’être du produit)*
-<br/>Fonction principale 1: Se suivre. (5)
+Fonction principale 1: Se suivre. (5)
 
 <br/>Fonction principale 2: Gérer leur vitesse. (4)
 
-<br/>Fonction principale 3: Gérer leur déplacement. (4)
+Fonction principale 3: Gérer leur déplacement. (4)
+
 ##### 2.1.1.1 Description et détail
-<br/>Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
+Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi pouvoir le quitter.
 <br/>Fonction 2: Les robots doivent communiquer les informations concernant leur vitesse.
 <br/>Fonction 3: Les robots doivent contrôler leur déplacement pour rester rattacher au convoi et éviter les obstacles.
 
