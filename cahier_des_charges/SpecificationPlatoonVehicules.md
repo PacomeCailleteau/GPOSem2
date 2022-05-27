@@ -149,11 +149,11 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.2.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS.png alt="WBS" width="1000"/>
+<img src=../pictures/WBS_F1.png alt="WBS fonction 2" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
+<img src=../pictures/DiagrammeDeSequenceF2.png alt="Diagramme de séquence fonction 2" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.2.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
@@ -162,11 +162,11 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.3.1 Solution proposée
 *Tâches à réaliser pour la solution -> __WBS__*
 
-<img src=../pictures/WBS.png alt="WBS" width="1000"/>
+<img src=../pictures/WBS_F1.png alt="WBS fonction 3" width="1000"/>
 
 *Description de __scénarios__ (potentiellement avec un Diagramme de séquence)*
 
-<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence" width="1000"/>
+<img src=../pictures/DiagrammeDeSequence.png alt="Diagramme de séquence fonction 3" width="1000"/>
 
 *__Jalon__ : date à laquelle la fonction doit être livrée.*
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
@@ -184,7 +184,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *__Profils de risques__ pour chaque fonction de service*
 
 
-Degré du risque dz la fonction principale 1
+Degré du risque de la fonction principale 1
 |Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 1 |
