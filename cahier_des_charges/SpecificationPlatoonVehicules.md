@@ -194,6 +194,7 @@ Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteind
 Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
 #### 3.3.3 Part du prix attribué à chaque fonction
 3/10 du budget
+
 ### 3.x Pour l’ensemble du produit
 #### 3.x.1 Prix de la réalisation de la version de base
 *Ici, il faut imaginer en faisant une petite étude de marchée (cf des sites marchands spécialisés)* <br/>
@@ -203,10 +204,17 @@ Autre frais (électricité, loyer ..) : 1 000 000€ <br/>
 Total : 1 700 000€
 
 #### 3.x.2 Options et variantes proposées non retenues au cahier des charges
+Pouvoir partager et recevoir les itinéraires des véhicules du platoon.
+Pouvoir communiquer par un tchat textuel local aux autres véchiules.
+
 #### 3.x.3 Mesures prises pour respecter les contraintes et leurs conséquences économiques
 #### 3.x.4 Outils d’installation, de maintenance … à prévoir
 #### 3.x.5 Décomposition en modules, sous-ensembles
+
+
 #### 3.x.7 Perspectives d’évolution technologique
+Pouvoir permettre au platoon d'accepter d'autres véhicules que les voitures (ex: Moto, camping-car).
+
 ## 4 Prévisions de fiabilité – Gestions des risques
 ### 4.1 Risques à la réalisation
 *__Profils de risques__ pour chaque fonction de service*
