@@ -40,7 +40,7 @@ Cependant, ce projet reste risqué et coûteux et reste au niveau maquette pour 
 les risques et les bénéfices sont déjà bien connus.
 #### 1.2.2 Études déjà effectuées
 La société Scania a déjà étudiées les platoons de camion semi-autonomes : https://www.youtube.com/watch?v=n0SXO_hzYDY
-Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
+<br/>Sur le plan des études sur les voitures autonomes qui nous sont utile pour le platoon, Tesla a aussi inové et fait des recherches sur la voiture autonome : https://www.youtube.com/watch?v=1-XxCiaurms
 #### 1.2.3 Études menées sur des sujets voisins
 Par exemple, des études ont été menées pour un bus autonome à la RATP : https://www.youtube.com/watch?v=Uym44SKFByE
 #### 1.2.4 Suites prévues
@@ -61,8 +61,8 @@ Le produit est destiné aux adultes de tout âges plutôt aisées.
 Contrainte environnementale (non affectation de la faune et de la flore), contrainte économique (coût de création du produit), fréquence des ondes des appareils électroniques.
 #### 1.4.2 Caractéristiques pour chaque élément de l’environnement
 -Les fréquences d'ondes ne doivent pas perturber les animaux ni les personnes à bord du véhicule.
--Prise en compte des usagers non liés avec le véhicule et prise en compte d'éventuels accidents.
--Reprise facile du contrôle du véhicule.
+<br/>-Prise en compte des usagers non liés avec le véhicule et prise en compte d'éventuels accidents.
+<br/>-Reprise facile du contrôle du véhicule.
 ## 2. Expression fonctionnelle du besoin
 
 *Le __Diagramme de cas d’utilisation__, à priori chaque cas d’utilisation correspond à une fonction. Le diagramme de cas d’utilisation inclut la description détaillée de chaque cas d’utilisation (cf. cours de CO-C).*
@@ -94,21 +94,21 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
 <br/>-Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1.
-<br/>-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; 
+<br/>-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo.
 <br/>Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
 <br/>-Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms.
 
 #### 2.1.2 Fonctions de service complémentaires 
 *(qui améliorent, facilitent ou complètent le service rendu)*
-<br/>-Fonction complémentaire 1: Communication entre passagers(3)
-<br/>-Fonction complémentaire 2: Vue du convoi(1)
+<br/>-Fonction complémentaire 1: Communication entre passagers (3)
+<br/>-Fonction complémentaire 2: Vue du convoi (1)
 
 ##### 2.1.2.1 Description et détail
 -Fonction 1: Les robots peuvent s'envoyer des messages entre eux.
--Fonction 2: Les robot peuvent voir leur place dans le convoi et une vue de haut.
+<br/>-Fonction 2: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 ##### 2.1.2.2 Critères d’appréciation et les niveaux qui les caractérisent 
 *(Niveaux dont l’obtention est imposée)*
-<br/>-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères. <br/>
+<br/>-Fonction 1: Critère 1: Ils doivent recevoir un grand nombre de caractères. Taille du message: 200 caractères avec une marge de 10 caractères.
 <br/>-Fonction 2: Critère 1: Les robot peuvent voir leur place dans le convoi et une vue de haut.
 
 *(Niveaux souhaités mais révisables)*
@@ -143,7 +143,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 #### 3.1.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 Critère 1 : Le système fonctionne parfaitement jusqu'à 7 véhicules et commence a avoir des ralentissements, notre objectif de 2 à 4 véhicules est donc valide. <br/>
 Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle fonctionne sans risque pour les usagers.
-#### 3.1.3 Part du prix attribué à chaque fonction
+#### 3.1.3 Part du prix attribué à la première fonction
 5/10 du budget
 ### 3.2 *Pour chaque fonction : fonction 2 (Gérer leur vitesse)*
 #### 3.2.1 Solution proposée
@@ -161,7 +161,7 @@ Il faut contrôler le prix des équipements utilisés, le temps d'installation d
 Critère 1 : La quantité d'information envoyé est de 53Mo/s.<br/>
 Critère 2 : Le temps de latence est de 12ms.<br/>
 Il faut contrôler le prix des équipements utilisés, le temps d'installation de la fonction et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
-#### 3.2.3 Part du prix attribué à chaque fonction
+#### 3.2.3 Part du prix attribué à la fonction 2
 2/10 du budget
 ### 3.3 *Pour chaque fonction : fonction 3 (Gérer leur déplacement)*
 #### 3.3.1 Solution proposée
@@ -178,7 +178,7 @@ Il faut contrôler le prix des équipements utilisés, le temps d'installation d
 #### 3.3.2 Niveau atteint pour chaque critère d’appréciation de cette fonction et modalités de contrôle
 Critère 1 : Les informations partagés dans le groupent mettent 16ms à atteindre tout les véhicules, c'est donc un succès.<br/>
 Il faut contrôler le prix des équipements utilisés, le temps d'installation et le fait qu'elle envoie assez d'informations aux autres véhicules pour qu'ils puissent réagit de la meilleur manière possible.
-#### 3.3.3 Part du prix attribué à chaque fonction
+#### 3.3.3 Part du prix attribué à la fonction 3
 3/10 du budget
 
 ### 3.x Pour l’ensemble du produit
