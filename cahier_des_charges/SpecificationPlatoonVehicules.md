@@ -183,7 +183,7 @@ En termes des contraintes, nous nous limiterons à nos robots Lego pour la maque
 *__Profils de risques__ pour chaque fonction de service*
 
 
-Degré du risque dz la fonction principale 1
+Degré du risque de la fonction principale 1
 |Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Taille de la fonction | 0 | 0 | 0 | 0 | 0 | 1 |
@@ -193,6 +193,27 @@ Degré du risque dz la fonction principale 1
 | Changement | 0 | 1 | 0 | 0 | 0 | 0 |
 | Instabilité de l’équipe de projet | 0 | 0 | 1 | 0 | 0 | 0 |
 
+
+Degré du risque de la fonction principale 2
+|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Taille de la fonction | 0 | 0 | 0 | 0 | 1 | 0 |
+| Difficulté technique | 0 | 0 | 0 | 0 | 1 | 0 |
+| Degré d’intégration | 0 | 0 | 0 | 1 | 0 | 0 |
+| Configuration organisationnelle | 0 | 0 | 1 | 0 | 0 | 0 |
+| Changement | 0 | 1 | 0 | 0 | 0 | 0 |
+| Instabilité de l’équipe de projet | 0 | 1 | 0 | 0 | 0 | 0 |
+
+
+Degré du risque de la fonction principale 3
+|Nature du Risque| 0 | 1 | 2 | 3 | 4 | 5 
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Taille de la fonction | 0 | 0 | 0 | 0 | 1 | 0 |
+| Difficulté technique | 0 | 0 | 0 | 0 | 1 | 0 |
+| Degré d’intégration | 0 | 0 | 0 | 1 | 0 | 0 |
+| Configuration organisationnelle | 0 | 0 | 1 | 0 | 0 | 0 |
+| Changement | 0 | 1 | 0 | 0 | 0 | 0 |
+| Instabilité de l’équipe de projet | 0 | 0 | 1 | 0 | 0 | 0 |
 
 ### 4.2 Prévision des défaillances
 *Table de défaillance pour chaque fonction de service avec un paragraphe commentant chaque défaillance et/ou chaque cause/effet/détection d’importance notable*
