@@ -106,9 +106,9 @@ Fonction 1: Les robots doivent pouvoir rejoindre le convoi mais doivent aussi po
 <br/>Fonction 3: Les robots doivent contrôler leur déplacement pour rester rattacher au convoi et éviter les obstacles.
 
 ##### 2.1.1.2 Critères d’appréciation et les niveaux qui les caractérisent 
-*(Niveaux dont l’obtention est imposée)*
--Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1
--Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.
+*(Niveaux dont l’obtention est imposée)*<br/>
+-Fonction 1: Critère 1: Le convoi doit pouvoir atteindre une grande taille. Taille préférable: 3 véhicule  avec une marge de +/- 1<br/>
+-Fonction 2: Critère 1: Les robots doivent pouvoir échanger un grand nombre d'information. Quantité d'information: 50 Mo avec une marge de +/- 5 Mo; Critère 2: Les informations doivent circuler rapidement. Temps d'echange: 10ms avec marge de +/- 3 ms.<br/>
 -Fonction 3: Critère 1: Les robots doivent pouvoir changer de direction rapidement. Temps de réaction: 17ms avec marge de +/- 2ms
 
 #### 2.1.2 Fonctions de service complémentaires 
